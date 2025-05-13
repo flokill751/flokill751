@@ -18,4 +18,4 @@ Sou um desenvolvedor apaixonado por Kotlin, Jetpack Compose e tecnologias web. A
 - LinkedIn: [link do seu LinkedIn]
 - Twitter: [@seuTwitter](https://twitter.com/seuTwitter)
 
-![snake animation](https://github.com/flokill751/flokill751/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/flokill751/flokill751/output/snake.svg" alt="Snake animation" />
