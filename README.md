@@ -17,3 +17,5 @@ Sou um desenvolvedor apaixonado por Kotlin, Jetpack Compose e tecnologias web. A
 - Email: seuemail@dominio.com
 - LinkedIn: [link do seu LinkedIn]
 - Twitter: [@seuTwitter](https://twitter.com/seuTwitter)
+
+![snake animation](https://github.com/flokill751/flokill751/blob/output/github-contribution-grid-snake2.svg)
