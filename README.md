@@ -8,15 +8,7 @@ Atualmente, estou aprendendo mais sobre **Compose Multiplatform** e desenvolvend
 
 Tenho **20 anos**, sou de **Brasília - DF** e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
 
-Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à vontade para explorar!
-
----
-
-## 🌱 Atualmente aprendendo
-
-- Kotlin  
-- Jetpack Compose  
-- Desenvolvimento multiplataforma  
+Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à vontade para explorar!0
 
 ---
 
@@ -30,6 +22,12 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
 
 <br/>
 
+---
+
+## 🌱 Atualmente aprendendo
+
+- Kotlin  
+- Jetpack Compose
 ---
 
 ### 📊 Estatísticas
