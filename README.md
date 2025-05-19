@@ -21,9 +21,8 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <br/>
-
 ---
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### 📊 Estatísticas
 <br/>
 <br/>
