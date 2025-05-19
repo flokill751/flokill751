@@ -24,6 +24,18 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
 
 ---
 
+### 📊 Estatísticas
+<br/>
+<br/>
+<p>
+  <img 
+    align="left" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=flokill751&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## 🌱 Atualmente aprendendo
 
 - Kotlin  
@@ -40,7 +52,7 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
     src="https://github-readme-stats.vercel.app/api?username=flokill751&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ---
 
