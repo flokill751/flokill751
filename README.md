@@ -20,8 +20,10 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br/>
+<br/> <br/>
+
 ---
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### 📊 Estatísticas
 <br/>
@@ -32,6 +34,7 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=flokill751&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+---
   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
