@@ -28,8 +28,9 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
 
 ## 🌱 Atualmente aprendendo
 
-- Kotlin  
-- Jetpack Compose
+- Kotlin Jetpack Compose
+- spring boot
+- python e automação
   
 ---
 
