@@ -1,7 +1,5 @@
-# 👋 Olá, eu sou o Felipe Álefe!
-
-Seja bem-vindo ao meu perfil no GitHub!
-
+  <div align = "center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D001EF8&background=74021200&width=435&lines=Ol%C3%A1%2C+Eu+sou+Felipe+%C3%81lefe+;Bem+vindo(a)!;%3A)" alt="Typing SVG" /></a> 
+</div>
 Sou um desenvolvedor apaixonado por tecnologia, criação de interfaces modernas e soluções criativas. Gosto de explorar diferentes áreas do desenvolvimento de software — do front-end ao back-end — com interesse especial por tecnologias web e experiência do usuário.
 
 Atualmente, estou aprendendo mais sobre **Compose Multiplatform** e desenvolvendo projetos que colocam em prática tudo o que venho estudando.
@@ -51,3 +49,13 @@ Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à v
 ### 🐍 Snake Contribution
 
 <img src="https://raw.githubusercontent.com/flokill751/flokill751/output/snake.svg" alt="Snake animation" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flokill751/flokill751/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flokill751/flokill751/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/flokill751/flokill751/output/pacman-contribution-graph.svg">
+</picture>
+
+###
