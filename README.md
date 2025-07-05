@@ -36,7 +36,7 @@
 
 
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica em aprendizagem
 
 <div align="center" style="margin: 30px 0;">
   
