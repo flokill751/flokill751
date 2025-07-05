@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D001EF8&background=74021200&width=435&lines=Olá%2C+Eu+sou+Felipe+Álefe+;Bem-vindo(a)!;:)" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Felipe+Álefe;Seja+bem-vindo+ao+meu+perfil;+:%29" alt="Typing Animation"/>
   </a>
 </div>
 
