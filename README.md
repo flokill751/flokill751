@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Felipe+Álefe;Seja+bem-vindo+ao+meu+perfil;+:%29" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Felipe+Álefe;Seja+bem-vindo+ao+meu+perfil;+:%29" alt="Typing Animation"/>
   </a>
 </div>
 
@@ -13,31 +13,10 @@
 Sou um desenvolvedor apaixonado por tecnologia, criação de interfaces modernas e soluções criativas.  
 Gosto de explorar diferentes áreas do desenvolvimento de software — do **front-end ao back-end** — com interesse especial por **tecnologias web** e **experiência do usuário**.
 
-Atualmente, estou aprendendo mais sobre **Compose Multiplatform** e desenvolvendo projetos que colocam em prática tudo o que venho estudando.
-
-Tenho **20 anos**, sou de **Brasília - DF** e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
-
+Atualmente, estou aprendendo mais sobre **Compose Multiplatform** e desenvolvendo projetos que colocam em prática tudo o que venho estudando.  
+Tenho **20 anos**, sou de **Brasília - DF** e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.  
 Aqui você vai encontrar meus projetos pessoais, estudos e ideias — fique à vontade para explorar! 🚀
 
----
-
-### 🚀 Tecnologias que estou aprendendo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-</div>
-
----
 
 ### 📈 Estatísticas GitHub
 
