@@ -8,22 +8,23 @@
 
 
 
-## 👨‍💻 Sobre Mim
+<h2 align="center">👨‍💻 Sobre Mim</h2>
 
 <div style="position: relative;">
   <img align="right" src="https://i.imgur.com/SGR1Rrh.gif" width="220" height="220" style="margin-left: 30px; border-radius: 10px;" alt="GIF de programador"/>
   
   <div style="max-width: 700px; text-align: left; margin-right: 250px;">
-    💻 **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e interfaces intuitivas.<br><br>
-    🌐 Especializado em **tecnologias web** com foco em **React, TypeScript e Java Spring**.<br><br>
-    📱 Atualmente explorando **Kotlin Multiplatform** para desenvolvimento mobile multiplataforma.<br><br>
-    🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília.<br><br>
+    💻 <strong>Desenvolvedor Full Stack</strong> apaixonado por criar soluções inovadoras e interfaces intuitivas.<br><br>
+    🌐 Especializado em <strong>tecnologias web</strong> com foco em <strong>React, TypeScript e Java Spring</strong>.<br><br>
+    📱 Atualmente explorando <strong>Kotlin Multiplatform</strong> para desenvolvimento mobile multiplataforma.<br><br>
+    🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Católica de Brasília.<br><br>
     🚀 Busco constantemente aprender novas tecnologias e compartilhar conhecimento.
   </div>
 </div>
 
+<br><br><br>
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
   
@@ -36,10 +37,10 @@
 
 
 
-## 🛠️ Stack Tecnológica em aprendizagem
 
 <div align="center" style="margin: 30px 0;">
-  
+<h2 align="center">🛠️ Stack Tecnológica em aprendizagem</h2>  
+
 ### 🔹 Frontend & Mobile
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React"/>
@@ -62,7 +63,6 @@
 </div>
 
 
-
 ### 🎮 Gráfico de Contribuições
 
 <div align="center" style="margin: 30px 0;">
@@ -70,16 +70,12 @@
 </div>
 
 
-
-### 📬 Contato
-
-
 <div align="center">
+<h2>📬 Contato</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipealefe16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-álefe-9396272ba)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050f2c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
-
 </div>
 
 
