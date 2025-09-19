@@ -32,7 +32,6 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flokill751&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flokill751&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 
